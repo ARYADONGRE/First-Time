@@ -1,0 +1,1 @@
+  F_sum = max(F_sum, T_sum);
